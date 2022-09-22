@@ -5,6 +5,8 @@ A distributed data analysis project which combine high performance computing met
 
 The data is collected from UCI machine learning repository link: https://archive.ics.uci.edu/ml/datasets/El+Nino
 
+The data set is also available in the repository as a csv file. 
+
 ## The Analysis and Prediction
 
 The notebook consists of analysis and prediction using python and high performance computing techniques like PySpark. 
